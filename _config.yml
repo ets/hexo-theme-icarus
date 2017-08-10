@@ -18,7 +18,7 @@ customize:
         avatar: https://pbs.twimg.com/profile_images/620782832537899008/C5t6sStn_400x400.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: ets
-        author_title: does not use tags
+        author_title: does not use categories
         location: Washington D.C., USA
         follow: https://github.com/ets/
     highlight: monokai
