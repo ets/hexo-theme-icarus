@@ -15,7 +15,7 @@ customize:
         url: images/logo.png
     profile:
         enabled: true # Whether to show profile bar
-        avatar: https://pbs.twimg.com/profile_images/620782832537899008/C5t6sStn_400x400.jpg
+        avatar: images/headshot_400x400.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: ets
         author_title: does not blog predictably
